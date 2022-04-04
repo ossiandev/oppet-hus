@@ -325,7 +325,8 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Script
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: "C:\\dev\\Programming\\\xD6ppet Hus\\NTI GAME"
+  m_LastProjectPath: "C:\\dev\\Programming\\\xD6ppet Hus\\NTI Spelutveckling\\oppet-hus\\NTI
+    GAME"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -415,7 +416,7 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
-  m_DirectoriesAreaWidth: 207
+  m_DirectoriesAreaWidth: 208
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -481,23 +482,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 70fbffff7e3d00008a3d0000cc3d0000
+      m_SelectedIDs: 7e3d0000
+      m_LastClickedID: 15742
+      m_ExpandedIDs: 70fbffff8a3d0000b23d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: ButtonManager
+        m_OriginalName: ButtonManager
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 15696
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -543,9 +544,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -7.433243, y: 2.8503406, z: -1.6540954}
+    m_Target: {x: 2.5430157, y: 11.565255, z: 13.322668}
     speed: 2
-    m_Value: {x: -7.433243, y: 2.8503406, z: -1.6540954}
+    m_Value: {x: 2.5430157, y: 11.565255, z: 13.322668}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -592,9 +593,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.14778869, y: -0.44826403, z: 0.09026844, w: -0.87703663}
+    m_Target: {x: 0.064512685, y: 0.91170883, z: -0.35040236, w: 0.20490134}
     speed: 2
-    m_Value: {x: -0.14646398, y: -0.4483712, z: 0.08959027, w: -0.87720305}
+    m_Value: {x: 0.063982494, y: 0.91195077, z: -0.350474, w: 0.20351918}
   m_Size:
     m_Target: 1.5
     speed: 2
@@ -604,8 +605,8 @@ MonoBehaviour:
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 2
-    m_SpeedNormalized: 1
+    m_Speed: 1.8800598
+    m_SpeedNormalized: 0.93999994
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -681,7 +682,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1

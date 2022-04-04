@@ -58,7 +58,6 @@
   <ItemGroup>
     <Compile Include="Assets\Script\WinBlock.cs" />
     <Compile Include="Assets\Script\CameraMove.cs" />
-    <Compile Include="Assets\Script\PlayerJump.cs" />
     <Compile Include="Assets\Script\PlayerMove.cs" />
     <Compile Include="Assets\Script\RestartScene.cs" />
   </ItemGroup>

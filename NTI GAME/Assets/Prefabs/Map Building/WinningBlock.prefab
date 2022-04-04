@@ -45,7 +45,7 @@ GameObject:
   - component: {fileID: 3471009702119209429}
   - component: {fileID: 877156060428442348}
   m_Layer: 7
-  m_Name: Cube (36)
+  m_Name: WinningBlock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -139,3 +139,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 739f73cdee687b546bcc34d0c447b14c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  restart: {fileID: 0}
